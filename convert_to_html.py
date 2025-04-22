@@ -27,6 +27,7 @@ html_content = f"""
             margin: 20px auto;
             border-collapse: collapse;
             background-color: #fff;
+            text-align: center;
         }}
         th, td {{
             padding: 10px;
